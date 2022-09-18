@@ -25,6 +25,7 @@ namespace TravelApp
             }
             else
             {
+                Navigation.PushAsync(new HomePage());
 
             }
         }
