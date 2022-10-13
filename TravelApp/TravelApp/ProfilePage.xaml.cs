@@ -5,9 +5,9 @@ using Xamarin.Forms;
 
 namespace TravelApp
 {
-    public partial class HomePage : TabbedPage
+    public partial class ProfilePage : ContentPage
     {
-        public HomePage()
+        public ProfilePage()
         {
             InitializeComponent();
         }
